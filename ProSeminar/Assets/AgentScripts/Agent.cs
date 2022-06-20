@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Agent : MonoBehaviour
 {
-    public float maxSpeed = 10.0f;
+    public float maxSpeed = 1.0f;
     public float minSpeed = 1.0f;
     public Vector3 Geschwindigkeit;
     protected Bewegung bewegung;
